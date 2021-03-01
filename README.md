@@ -1,2 +1,2 @@
-# GH_repository_Pentago
+# Pentago_OO_Java
  Repositório github do jogo Pentago
